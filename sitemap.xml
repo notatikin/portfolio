@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+			xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+						http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>https://notatikin.github.io/portfolio/</loc>
+	<lastmod>2022-07-30T21:26:22+00:00</lastmod>
+	<priority>1.00</priority>
+	<changefreq>never</changefreq>
+</url>
+<url>
+	<loc>https://notatikin.github.io/portfolio/manna/</loc>
+	<lastmod>2022-07-30T21:26:22+00:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>never</changefreq>
+</url>
+<url>
+	<loc>https://notatikin.github.io/portfolio/star/</loc>
+	<lastmod>2022-07-30T21:26:22+00:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>never</changefreq>
+</url>
+<url>
+	<loc>https://notatikin.github.io/portfolio/honey/</loc>
+	<lastmod>2022-07-30T21:26:22+00:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>never</changefreq>
+</url>
+<url>
+	<loc>https://notatikin.github.io/portfolio/microsoft/</loc>
+	<lastmod>2022-07-30T21:26:22+00:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>never</changefreq>
+</url>
+<url>
+	<loc>https://notatikin.github.io/portfolio/appi/</loc>
+	<lastmod>2022-07-30T21:26:22+00:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>never</changefreq>
+</url>
+<url>
+	<loc>https://notatikin.github.io/portfolio/beams/</loc>
+	<lastmod>2022-07-30T21:26:22+00:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>never</changefreq>
+</url>
+<url>
+	<loc>https://notatikin.github.io/portfolio/mom/</loc>
+	<lastmod>2022-07-30T21:26:22+00:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>never</changefreq>
+</url>
+<url>
+	<loc>https://notatikin.github.io/portfolio/retouch/</loc>
+	<lastmod>2022-07-30T21:26:22+00:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>never</changefreq>
+</url>
+<url>
+	<loc>https://notatikin.github.io/portfolio/lebowski/</loc>
+	<lastmod>2022-07-30T21:26:22+00:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>never</changefreq>
+</url>
+</urlset>
