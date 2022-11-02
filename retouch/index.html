@@ -40,12 +40,18 @@
 		</main>
 	</div>
 	<div class="media" style="background: #000">
-		<video src="01.webm" controls style="pointer-events: initial;"></video>
+		<video controls style="pointer-events: initial" playsinline>
+			<source src="01.webm" type="video/webm" data-wf-ignore="true">
+			<source src="01.mp4" type="video/mp4" data-wf-ignore="true">
+		</video>
 		<img data-src="01.webp" src="" alt="Никита Игнатченко">
 		<img data-src="02.webp" src="" alt="Никита Игнатченко">
 		<img data-src="03.webp" src="" alt="Никита Игнатченко">
 		<img data-src="04.gif" src="" alt="Никита Игнатченко">
-		<video src="05.webm" autoplay muted loop></video>
+		<video autoplay muted loop playsinline>
+			<source src="05.webm" type="video/webm" data-wf-ignore="true">
+			<source src="05.mp4" type="video/mp4" data-wf-ignore="true">
+		</video>
 		<img data-src="06.webp" src="" alt="Никита Игнатченко">
 		<img data-src="07.webp" src="" alt="Никита Игнатченко">
 		<img data-src="08.gif" src="" alt="Никита Игнатченко">
